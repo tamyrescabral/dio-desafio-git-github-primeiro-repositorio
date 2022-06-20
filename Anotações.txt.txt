@@ -1,0 +1,17 @@
+Link para download do Git: https://git-scm.com/downloads
+
+O Git é um projeto de código aberto, bem como um Sistema de Controle de Versão Distribuído, cuja cópia do trabalho e da contribuição de cada colaborador/desenvolvedor resultam em um repositório, que dispõe do histórico de todas alterações realizadas, facilitando o gerenciamento de alterações em código fonte, uma vez que se registra todas as versões do código, incluindo suas modificações. 
+
+Em se tratando das vantagem do uso do Git, há 3 benefícios principais: desempenho, segurança e flexibilidade. Dito isso, visto que o repositório é um diretório de armazenamento de arquivos e o commit é um conjunto de alterações realizadas durante o projeto, faz-se essencial usar o .gitignore, escrever mensagens precisas que representem o que aquela modificação atribuiu, além de commitar durante a criação do código, ainda que com pequenos ciclos de commit, a fim de que o trabalho não seja perdido.
+
+Principais comandos do Git:
+
+1. Git init: criação de repositório local;
+2. Git commit: salvar as alterações no repositório;
+3. Git status: verificação de alterações na branch;
+4. Git push: envio das alterações do repositório local para o repositório remoto;
+5. Git pull: atualização do repositório local com a versão do repositório remoto;
+6. Git clone: cópia do código fonte de um repositório;
+7. Git add: inclusão das alteração de um arquivo no próximo commit;
+8. Git branch: criar, listar e excluir ramificações;
+9. Git checkout: mudar de uma branch para outra.
